@@ -101,7 +101,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 Juancito Peña - ([https://x.com/JuancitoPenaV) - JuancitoPenaV
 
-Link del Proyecto: [https://github.com/tu-usuario/REMOVER-FONDO-IMAGENES](https://github.com/tu-usuario/REMOVER-FONDO-IMAGENES)
+Link del Proyecto: (https://github.com/JUANCITOPENA/-REMOVER-FONDO-IM-GENES-)
 
 ---
 
