@@ -37,7 +37,8 @@ Este proyecto tiene como objetivo **facilitar la eliminación de fondos de imág
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU-USUARIO/REMOVER-FONDO-IMAGENES.git
+git clone https://github.com/JUANCITOPENA/-REMOVER-FONDO-IM-GENES-
+
 cd REMOVER-FONDO-IMAGENES
 ```
 
