@@ -99,7 +99,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para má
 
 ## 📞 Contacto
 
-Juancito Peña - [@tu_twitter](https://twitter.com/tu_twitter) - email@example.com
+Juancito Peña - ([https://x.com/JuancitoPenaV) - JuancitoPenaV
 
 Link del Proyecto: [https://github.com/tu-usuario/REMOVER-FONDO-IMAGENES](https://github.com/tu-usuario/REMOVER-FONDO-IMAGENES)
 
@@ -107,5 +107,3 @@ Link del Proyecto: [https://github.com/tu-usuario/REMOVER-FONDO-IMAGENES](https:
 
 Desarrollado con ❤️ por **Juancito Peña** 💻
 ```
-
-This Markdown script includes all the necessary sections for a comprehensive README.md file, including project description, features, technologies used, installation and usage instructions, troubleshooting tips, future improvements, contribution guidelines, license information, and contact details. You can copy this entire script and save it as `README.md` in your project's root directory.
