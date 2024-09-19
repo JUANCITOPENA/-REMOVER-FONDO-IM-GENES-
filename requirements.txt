@@ -1,5 +1,5 @@
-streamlit==1.25.0
-rembg==2.0.29
-Pillow==9.2.0
-numpy==1.23.0   # Dependencia de rembg para el procesamiento de imágenes
-scikit-image==0.19.2  # Otra posible dependencia utilizada por rembg
+streamlit
+rembg
+Pillow
+numpy
+scikit-image
